@@ -3,6 +3,8 @@ Following are the details about the primeDate POC:
 #Project setup:
 1. Clone the project from my github repo.
 2. After cloning run command 'npm install' to install all the dependencies required for this project.
+3. To Run the project run goto the project directory then run command node app.js
+4. To Run the test case run command: npm run test
 
 #Below are the list of folders in my application with explanation:
 
